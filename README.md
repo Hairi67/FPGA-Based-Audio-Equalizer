@@ -60,6 +60,8 @@ Each frequency band is filtered and individually controlled for gain, then recom
 - Taps: 30
 - Cutoff Frequencies: 4 kHz – 20 kHz
 - Advantages: Preserves high-frequency details.
+
+---
     
 ## 🔉 Gain Control
 
@@ -71,11 +73,15 @@ Each band’s gain is controlled using two bits from the FPGA’s onboard switch
 
 Implemented via arithmetic shifts for efficiency.
 
+---
+
 ## 🧰 Tools & Technologies
 - Python / MATLAB: Filter design and FFT analysis
 - Quartus Prime: RTL implementation
 - ModelSim: Simulation and waveform analysis
 - Verilog HDL: Hardware design language
+
+---
 
 ## 📊 Results
 - Accurate separation of frequency bands using IIR/FIR filters.
@@ -83,6 +89,8 @@ Implemented via arithmetic shifts for efficiency.
 - Combined output signal closely matches theoretical expectations from MATLAB/Python simulations.
 
 Waveform results are available in the images/ directory.
+
+---
 
 ## 📄 License
 
