@@ -5,14 +5,13 @@ This project implements a 3-band audio equalizer on an FPGA, designed using IIR 
 
 ## 📌 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Filter Design](#filter-design)
-- [Gain Control](#gain-control)
-- [Tools & Technologies](#tools--technologies)
-- [Results](#results)
-- [Folder Structure](#folder-structure)
-- [License](#license)
+- [🔍 Overview](#🔍-overview)
+- [🌟 Features](#🌟-features)
+- [🛠️ Filter Design](#🛠️-filter-design)
+- [🔉 Gain Control](#🔉-gain-control)
+- [🧰 Tools & Technologies](#🧰-tools-&-technologies)
+- [📊 Results](#📊-results)
+- [📄 License](#📄-license)
 
 ---
 
